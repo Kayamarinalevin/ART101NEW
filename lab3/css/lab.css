@@ -7,3 +7,8 @@
     border: solid 1px #888;
     background-color: #DDD8C4;
   }
+
+  /* create style for images to be max width of 500px */
+  img {
+    max-width: 500px;
+  }

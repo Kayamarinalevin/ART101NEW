@@ -2,9 +2,13 @@
 
 /* you can pick your own background colors, text colors, and fonts */
 
+/*  fonts */
+@import url('https://fonts.googleapis.com/css2?family=Macondo&display=swap');
+
 /* we can select an html element tag, in this case "body" will apply to the whole document */
 body {
   background-color: #50808E;
+  font-family: 'Macondo', cursive;
 }
 
 /* we can have rules apply to multiple elements at the same time with commas */
