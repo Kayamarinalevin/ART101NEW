@@ -1,21 +1,10 @@
-// index.js - purpose and description here
-// Author: 
-// Date:
-
-// Constants
-
-// Functions
-
-// this is an example function and this comment tells what it doees and what parameters are passed to it.
-function myFunction(param1, param2) {
-  // some code here
-  // return results;
-}
-
-function main() {
-  console.log("Main function started.");
-  // the code that makes everything happen
-}
-
-// let's get this party started
-main();
+// create variables for make model and year and color for a 2002 grey ford focus 
+var make = "Ford";
+var model = "Focus";
+var year = 2002;
+var color = "Grey";
+// use document.write to print out the variables
+document.write("Make: " + make + "<br>");
+document.write("Model: " + model + "<br>");
+document.write("Year: " + year + "<br>");
+document.write("Color: " + color + "<br>");
